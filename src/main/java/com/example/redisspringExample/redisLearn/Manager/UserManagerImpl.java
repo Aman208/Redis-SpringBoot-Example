@@ -11,7 +11,7 @@ import java.util.List;
 public class UserManagerImpl implements UserManager {
 
     @Autowired
-    private RedisTemplate redisTemplategit;
+    private RedisTemplate redisTemplate;
 
 
 
